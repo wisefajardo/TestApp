@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="cards">
+        <item>@drawable/diamond1</item>
+        <item>@drawable/diamond2</item>
+        <item>@drawable/diamond3</item>
+        <item>@drawable/diamond4</item>
+        <item>@drawable/diamond5</item>
+        <item>@drawable/diamond6</item>
+        <item>@drawable/diamond7</item>
+        <item>@drawable/diamond8</item>
+        <item>@drawable/diamond9</item>
+        <item>@drawable/diamond10</item>
+        <item>@drawable/diamond11</item>
+        <item>@drawable/diamond12</item>
+        <item>@drawable/diamond13</item>
+
+        <item>@drawable/heart1</item>
+        <item>@drawable/heart2</item>
+        <item>@drawable/heart3</item>
+        <item>@drawable/heart4</item>
+        <item>@drawable/heart5</item>
+        <item>@drawable/heart6</item>
+        <item>@drawable/heart7</item>
+        <item>@drawable/heart8</item>
+        <item>@drawable/heart9</item>
+        <item>@drawable/heart10</item>
+        <item>@drawable/heart11</item>
+        <item>@drawable/heart12</item>
+        <item>@drawable/heart13</item>
+
+        <item>@drawable/spades1</item>
+        <item>@drawable/spades2</item>
+        <item>@drawable/spades3</item>
+        <item>@drawable/spades4</item>
+        <item>@drawable/spades5</item>
+        <item>@drawable/spades6</item>
+        <item>@drawable/spades7</item>
+        <item>@drawable/spades8</item>
+        <item>@drawable/spades9</item>
+        <item>@drawable/spades10</item>
+        <item>@drawable/spades11</item>
+        <item>@drawable/spades12</item>
+        <item>@drawable/spades13</item>
+
+        <item>@drawable/flower1</item>
+        <item>@drawable/flower2</item>
+        <item>@drawable/flower3</item>
+        <item>@drawable/flower4</item>
+        <item>@drawable/flower5</item>
+        <item>@drawable/flower6</item>
+        <item>@drawable/flower7</item>
+        <item>@drawable/flower8</item>
+        <item>@drawable/flower9</item>
+        <item>@drawable/flower10</item>
+        <item>@drawable/flower11</item>
+        <item>@drawable/flower12</item>
+        <item>@drawable/flower13</item>
+
+    </array>
+
+</resources>
